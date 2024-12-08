@@ -103,13 +103,13 @@ function Footer() {
               Elyzen
             </Link>{' '}
             | Made by{' '}
-            <Link href='https://www.sohom829.xyz/' target='_blank'>
-              <span className='font-bold'>codeblitz97</span>
+            <Link href='https://www.lexxyy.site/' target='_blank'>
+              <span className='font-bold'>Lexxyy</span>
             </Link>
           </span>
           <div className='mt-4 flex lg:mt-0 lg:justify-center'>
             <Link
-              href='https://github.com/codeblitz97/elyzen'
+              href='https://github.com/'
               target='_blank'
               className='ms-5 hover:text-gray-900 dark:hover:text-white lg:ms-0'
             >
