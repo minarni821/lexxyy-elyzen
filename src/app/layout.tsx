@@ -19,8 +19,8 @@ const overPass = Overpass({
 });
 
 export const metadata: Metadata = {
-  applicationName: 'Elyzen',
-  title: 'Elyzen',
+  applicationName: 'Lexxyy',
+  title: 'Lexxyy',
   description: 'Not just another anime streaming site.',
   keywords: [
     'anime',
